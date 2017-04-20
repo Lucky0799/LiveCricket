@@ -51,11 +51,11 @@
                         
 					</Geometry>
 					<Icons>
-						<Icon Type="Normal">./icons/iconNormal.png</Icon>
-						<Icon Type="RollOver">./icons/iconRollover.png</Icon>
-						<Icon Type="Disabled">./icons/iconDisabled.png</Icon>
-						<Icon Type="DarkNormal">./icons/iconDarkNormal.png</Icon>
-						<Icon Type="DarkRollOver">./icons/iconDarkRollover.png</Icon>
+						<Icon Type="Normal">./icons/crick.png</Icon>
+						<Icon Type="RollOver">./icons/crick.png</Icon>
+						<Icon Type="Disabled">./icons/crick.png</Icon>
+						<Icon Type="DarkNormal">./icons/crick.png</Icon>
+						<Icon Type="DarkRollOver">./icons/crick.png</Icon>
 					</Icons>					
 				</UI>
 			</DispatchInfo>
